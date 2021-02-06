@@ -1,0 +1,169 @@
+
+body {
+    background-color: #f2f2f2;
+}
+
+.bg-red {
+    background-color: red;
+}
+.red{
+    color: red;
+}
+.border-red {
+    border-color: red;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.center {
+    text-align: center;
+}
+
+.roboto {
+    font-family: Roboto;
+}
+
+.roboto-black {
+    font-family: "Roboto Black";
+}
+
+.roboto-medium {
+    font-family: "Roboto Medium";
+}
+
+.roboto-thin {
+    font-family: "Roboto Thin";
+}
+
+.roboto-light {
+    font-family: "Roboto Light";
+}
+
+.hr {
+    background-color: red;
+    padding: 1px 0;
+}
+
+.m {
+    padding-bottom: 4px;
+}
+
+/*.background-img {background-image: url("../my-app/public/Rectangle 6.png");}*/
+
+.h-1 {
+    font-size: 36px;
+}
+
+.h-2 {
+    font-size: 28px;
+}
+
+.h-3 {
+    font-size: 22px;
+}
+.h-4{
+    font-size: 18px;
+}
+
+.h-5 {
+    font-size: 16px;
+}
+
+.left {
+    margin-left: 0;
+    width: 25%;
+}
+
+.silver {
+    color: #959494;
+}
+
+.right {
+    text-align: right;
+}
+
+.h-140 {
+    height: 140px;
+}
+
+.img-margin {
+    margin: 20% auto;
+}
+
+.text-black {
+    color: black;
+}
+
+
+
+.carousel-control-next-1, .carousel-control-prev-1 {
+
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    color: #fff;
+    text-align: center;
+    transition: opacity .15s ease
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .carousel-control-next-1, .carousel-control-prev-1 {
+        transition: none
+    }
+}
+
+.carousel-control-next-1:focus, .carousel-control-next-1:hover, .carousel-control-prev-1:focus, .carousel-control-prev-1:hover {
+    color: #fff;
+    text-decoration: none;
+    outline: 0;
+    opacity: .9
+}
+
+.carousel-control-prev-1 {
+    left: 0
+}
+
+.carousel-control-next-1 {
+    right: 0
+}
+
+.margin-top{
+    margin-top: 15%;
+}
+.fs-24px{
+    font-size: 24px;
+}
+.icon{
+
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+}
+.i-color{
+    background-color: #1c1c1c;
+}
+.i-color-1{
+    background-color: white;
+}
+.fa-facebook-f{
+    size: 24px;
+}
+.border-r{
+    border-radius: 10px 10px 0 0;
+    border-bottom: 2px solid red;
+}
+.background-images{
+    background-image: url("textile_main_image 1.png");
+    background-image: url("textile-main-image-2.png");
+    height: 610px;
+}
+
+
+
+
+
+
+
